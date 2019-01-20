@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="synth_1" LaunchDir="F:/1 - Universidad/4 - Cuarto curso/Sistemas Electronicos Digitales/Ascensor_VHDL/Proyecto/Proyecto.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
